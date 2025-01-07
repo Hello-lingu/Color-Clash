@@ -1,0 +1,25 @@
+{
+	"name": "color-clash",
+	"displayName": "Color Clash",
+	"description": "This is a theme, is colorful and let you code carefully.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Color Clash",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lingu-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Hello-lingu/Color-Clash.git"
+	}
+}
