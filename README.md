@@ -5,5 +5,4 @@
 cd /path to the theme
 vsce package
 code --install-extersion ./path to the vsix
-
 ```

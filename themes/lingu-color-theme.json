@@ -24,13 +24,21 @@
                 "foreground": "#505861"
             }
         },
+        {
+            "scope": [
+                "punctuation.terminator.statement",
+                "punctuation.separator.pointer-access.c",
+                "punctuation.separator.dot-access.c",
+                "meta.statement.end.d",
+            ],
+            "settings": {
+                "foreground": "#ffa759",
+            }
+        },
         // C
         {
             "scope": [
                 "keyword",
-                "punctuation.terminator.statement.c",
-                "punctuation.separator.pointer-access.c",
-                "punctuation.separator.dot-access.c",
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -349,8 +357,27 @@
             "scope": "markup.underline.link.markdown",
             "settings": {
                 "foreground": "#0000ff",
-                "fontStyle": "bold underline"
+                "fontStyle": "bold underline",
             }
-        }
+        },
+        // bash
+        {
+            "scope": [
+                "punctuation.section.bracket.curly.variable.begin.shell",
+                "punctuation.section.bracket.curly.variable.end.shell",
+            ],
+            "settings": {
+                "foreground": "#ffa759",
+            }
+        },
+        {
+            "scope": [
+                "variable.other.normal.shell",
+                "punctuation.definition.variable.shell",
+            ],
+            "settings": {
+                "foreground": "#5ccfe6",
+            }
+        },
     ]
 }
