@@ -385,5 +385,22 @@
                 "foreground": "#5ccfe6",
             }
         },
+        // rust
+        {
+            "scope": "storage.modifier.mut.rust",
+            "settings": {
+                "foreground": "#5ccfe6",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.type.rust",
+                "entity.name.type.numeric.rust"
+            ],
+            "settings": {
+                "foreground": "#ffa759",
+            }
+        },
     ]
 }
