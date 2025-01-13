@@ -237,7 +237,7 @@
         {
             "scope": "string.quoted.double.html",
             "settings": {
-                "foreground": "#99c794",
+                "foreground": "#bae67e",
             }
         },
         // css
@@ -356,8 +356,14 @@
         {
             "scope": "markup.underline.link.markdown",
             "settings": {
-                "foreground": "#0000ff",
+                "foreground": "#006fd6",
                 "fontStyle": "bold underline",
+            }
+        },
+        {
+            "scope": "punctuation.definition.heading.markdown",
+            "settings": {
+                "foreground": "#FF0000",
             }
         },
         // bash
