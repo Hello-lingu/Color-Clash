@@ -7,4 +7,7 @@ Support `C, D, python, html, css, js, json......` highlight
 Add `bash` and `cangjie` highlight support
 
 ## v0.0.3
-Add rust support
+Add `rust` support
+
+## v0.0.4
+Add `lua` support

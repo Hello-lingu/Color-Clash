@@ -402,5 +402,25 @@
                 "foreground": "#ffa759",
             }
         },
+        {
+            "scope": "entity.name.function.macro.rust",
+            "settings": {
+                "foreground": "#2cb9b7",
+            }
+        },
+        // lua
+        {
+            "scope": "entity.other.attribute.lua",
+            "settings": {
+                "foreground": "#5ccfe6",
+            }
+        },
+        // makefile
+        {
+            "scope": "variable.other.makefile",
+            "settings": {
+                "foreground": "",
+            }
+        }
     ]
 }

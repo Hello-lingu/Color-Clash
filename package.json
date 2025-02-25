@@ -2,7 +2,7 @@
 	"name": "color-clash",
 	"displayName": "Color Clash",
 	"description": "This is a theme, is colorful and let you code carefully.",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.96.0"
 	},

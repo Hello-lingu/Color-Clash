@@ -2,7 +2,6 @@
 ## This is a Virtual Studio Code theme
 ### How to install it?
 ```bash
-cd /path to the theme
-vsce package
-code --install-extersion ./path to the vsix
+git clone https://github.com/Hello-lingu/Color-Clash.git
+code --install-extension ./path/to/vsix
 ```
