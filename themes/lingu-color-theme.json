@@ -415,11 +415,30 @@
                 "foreground": "#5ccfe6",
             }
         },
-        // makefile
+        // java
         {
-            "scope": "variable.other.makefile",
+            "scope": [
+                "storage.modifier.java",
+                "storage.modifier.extends.java"
+            ],
             "settings": {
-                "foreground": "",
+                "foreground": "#ffa759",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "entity.other.inherited-class.java",
+            "settings": {
+                "foreground": "#5bbb9b",
+            }
+        },
+        {
+            "scope": [
+                "punctuation.definition.annotation.java",
+                "storage.type.annotation.java"
+            ],
+            "settings": {
+                "foreground": "#ffd580",
             }
         }
     ]

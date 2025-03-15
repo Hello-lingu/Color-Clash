@@ -6,6 +6,7 @@
 ![c](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/clang.png)
 ![rust and toml](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/rust_toml.png)
 ![Goland](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/goland.png)
+![Java](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/java.png)
 ![docker](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/docker.png)
 ![Dlang](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/dlang.png)
 ![lua](https://github.com/Hello-lingu/Color-Clash/blob/master/preview/lua.png)
@@ -31,6 +32,7 @@
 |  php  |
 |  bash  |
 |  asm  |
+|  Java  |
 
 if not your favorite language, you can call me by issues, and title is `[Advice] ......`
 

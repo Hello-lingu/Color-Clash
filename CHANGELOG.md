@@ -11,3 +11,6 @@ Add `rust` support
 
 ## v0.0.4
 Add `lua` support
+
+## v0.0.5
+Add `java` support
